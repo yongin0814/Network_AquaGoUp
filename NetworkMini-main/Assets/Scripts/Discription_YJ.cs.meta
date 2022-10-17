@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Discription_YJ.cs.meta
+guid: 3d9745629e6c04741a20a796661a84a4
+========
+guid: e32fb9dc0efc038478980b9975d36a57
+>>>>>>>> origin/main:Assets/Scripts/Network/NetworkManager.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
